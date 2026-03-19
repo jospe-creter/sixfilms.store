@@ -1,0 +1,342 @@
+[
+  {
+    "id": "1",
+    "title": { "en": "Kigali Nights", "rw": "Ijoro rya Kigali", "sw": "Usiku wa Kigali", "fr": "Nuits de Kigali" },
+    "description": {
+      "en": "A thrilling action story set in the vibrant streets of Kigali, where a former soldier uncovers a dangerous conspiracy threatening the city's peace.",
+      "rw": "Inkuru ishimishije y'ibikorwa bishyushye igabanyijemo mu mihanda ihuze ya Kigali, aho ingabo yahoze mu gisirikare ivumbura umugambi w'inzitizi ugabanya amahoro y'umugi.",
+      "sw": "Hadithi ya kusisimua ya hatua iliyowekwa katika mitaa ya msisimko ya Kigali, ambapo askari wa zamani anagundua njama hatari inayotishia amani ya jiji.",
+      "fr": "Une histoire d'action palpitante se déroulant dans les rues animées de Kigali, où un ancien soldat découvre un complot dangereux menaçant la paix de la ville."
+    },
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/kigali1/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2023,
+    "rating": "PG-13",
+    "duration": "1h 52m"
+  },
+  {
+    "id": "2",
+    "title": { "en": "Love in Musanze", "rw": "Urukundo i Musanze", "sw": "Upendo Musanze", "fr": "Amour à Musanze" },
+    "description": {
+      "en": "A romantic journey between two strangers who meet near the gorilla sanctuary in Musanze and discover that love can bloom in the most unexpected places.",
+      "rw": "Urugendo rw'urukundo hagati y'abantu babiri batazanye bahuriye hafi y'ubwami bw'ingagi i Musanze kandi bagundura ko urukundo rushobora gukura mu hantu tutatekereza.",
+      "sw": "Safari ya kimapenzi kati ya wageni wawili wanaokutana karibu na hifadhi ya nyani huko Musanze na kugundua kwamba upendo unaweza kuchanua mahali pasipotarajiwa.",
+      "fr": "Un voyage romantique entre deux étrangers qui se rencontrent près du sanctuaire des gorilles à Musanze et découvrent que l'amour peut s'épanouir dans les endroits les plus inattendus."
+    },
+    "category": "Romance",
+    "thumbnail": "https://picsum.photos/seed/musanze2/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2023,
+    "rating": "PG",
+    "duration": "1h 45m"
+  },
+  {
+    "id": "3",
+    "title": { "en": "The Last Warrior", "rw": "Intwari ya Nyuma", "sw": "Mpiganaji wa Mwisho", "fr": "Le Dernier Guerrier" },
+    "description": {
+      "en": "An epic tale of a legendary Rwandan warrior who must unite rival clans to defend their homeland against an invading force from across the borders.",
+      "rw": "Inkuru y'intwari y'umunyarwanda w'inzobere wagombye guhuza amoko yivuganye kugira ngo barinde igihugu cyabo guhura n'ingabo z'abanzi zivuye hakurya y'imipaka.",
+      "sw": "Hadithi ya kishujaa ya mpiganaji maarufu wa Rwanda ambaye lazima aunge makabila yanayopigana ili kutetea nchi yao dhidi ya nguvu ya uvamizi kutoka ng'ambo ya mipaka.",
+      "fr": "Une épopée d'un légendaire guerrier rwandais qui doit unir des clans rivaux pour défendre leur patrie contre une force envahissante venue d'au-delà des frontières."
+    },
+    "category": "Rwandan Films",
+    "thumbnail": "https://picsum.photos/seed/warrior3/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2022,
+    "rating": "R",
+    "duration": "2h 10m"
+  },
+  {
+    "id": "4",
+    "title": { "en": "Shadow Protocol", "rw": "Protocole y'Igicucu", "sw": "Itifaki ya Kivuli", "fr": "Protocole Ombre" },
+    "description": {
+      "en": "A government spy goes rogue after discovering that her own agency has been infiltrated by a shadow organization with plans to destabilize East Africa.",
+      "rw": "Umukozi w'ubwenge bw'leta ahinduka indashyikirwa nyuma yo kugundura ko ikigo cye cyabaye gifite impamvu zikomeye z'umuryango w'igicucu ugamije gutangira ibihugu by'Afurika y'Iburasirazuba.",
+      "sw": "Mpelelezi wa serikali anakimbia baada ya kugundua kwamba shirika lake lenyewe limeingiliwa na shirika la kivuli lenye mipango ya kudestabilize Afrika Mashariki.",
+      "fr": "Une espionne gouvernementale devient hors-la-loi après avoir découvert que sa propre agence a été infiltrée par une organisation fantôme avec des plans pour déstabiliser l'Afrique de l'Est."
+    },
+    "category": "Thriller",
+    "thumbnail": "https://picsum.photos/seed/shadow4/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2024,
+    "rating": "R",
+    "duration": "2h 5m"
+  },
+  {
+    "id": "5",
+    "title": { "en": "The Wedding Planner", "rw": "Umurere w'Ubukwe", "sw": "Mpanga Harusi", "fr": "L'Organisatrice de Mariage" },
+    "description": {
+      "en": "A chaotic comedy about an overwhelmed wedding planner in Kigali who must organize three weddings in one weekend while dealing with her own love life falling apart.",
+      "rw": "Akamizero gashimishije k'umurere w'ubukwe uhangayitse i Kigali wagombye gutegura imiryango itatu mu gicuku kimwe ndetse ngo ajye gukemura ibibazo by'urukundo rwe bwite rugwaho.",
+      "sw": "Vichekesho vya msukosuko kuhusu mpanga harusi aliyelemewa huko Kigali ambaye lazima apange harusi tatu kwa wikendi moja huku akishughulikia maisha yake ya upendo yanayoanguka.",
+      "fr": "Une comédie chaotique sur une organisatrice de mariage débordée à Kigali qui doit organiser trois mariages en un week-end tout en gérant sa propre vie amoureuse qui s'effondre."
+    },
+    "category": "Comedy",
+    "thumbnail": "https://picsum.photos/seed/wedding5/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2023,
+    "rating": "PG",
+    "duration": "1h 38m"
+  },
+  {
+    "id": "6",
+    "title": { "en": "Nairobi Heat", "rw": "Ubushyuhe bwa Nairobi", "sw": "Joto la Nairobi", "fr": "Chaleur de Nairobi" },
+    "description": {
+      "en": "An intense action film following an elite detective through the dangerous underbelly of Nairobi as he hunts down an international crime syndicate.",
+      "rw": "Filimi y'ibikorwa bishyushye ikurikirana umupanga w'umwuga mu nzira z'akaga z'Ikibaya cya Nairobi akurukira umwuka w'ibikorwa by'isi yose.",
+      "sw": "Filamu ya nguvu ya vitendo inayomfuatilia mpelelezi bingwa kupitia tumbo hatari la Nairobi akimfuatilia mkuu wa uhalifu wa kimataifa.",
+      "fr": "Un film d'action intense suivant un détective d'élite dans les bas-fonds dangereux de Nairobi alors qu'il traque un syndicat criminel international."
+    },
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/nairobi6/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2024,
+    "rating": "R",
+    "duration": "1h 58m"
+  },
+  {
+    "id": "7",
+    "title": { "en": "Umuganda Love", "rw": "Urukundo rw'Umuganda", "sw": "Upendo wa Umuganda", "fr": "Amour d'Umuganda" },
+    "description": {
+      "en": "A heartwarming Rwandan romance set during the community work tradition of Umuganda, where two people from different walks of life find unexpected connection.",
+      "rw": "Inkuru y'urukundo ihakurirwa y'u Rwanda igabanyijemo mu nzira y'imihango ya Umuganda, aho abantu babiri bavuye mu nzira zitandukanye bagundura imitana itatekereza.",
+      "sw": "Mchezo wa mapenzi wa Rwanda unaofurahisha uliowekwa wakati wa mila ya kazi ya jamii ya Umuganda, ambapo watu wawili kutoka njia tofauti za maisha hupata muunganiko usiotarajiwa.",
+      "fr": "Une romance rwandaise touchante se déroulant pendant la tradition de travail communautaire d'Umuganda, où deux personnes de milieux différents trouvent une connexion inattendue."
+    },
+    "category": "Rwandan Films",
+    "thumbnail": "https://picsum.photos/seed/umuganda7/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2022,
+    "rating": "PG",
+    "duration": "1h 42m"
+  },
+  {
+    "id": "8",
+    "title": { "en": "Dark Signal", "rw": "Ibara Ribi", "sw": "Ishara ya Giza", "fr": "Signal Sombre" },
+    "description": {
+      "en": "A psychological thriller where a radio host begins receiving disturbing transmissions from an unknown source that predict future crimes across the city.",
+      "rw": "Filimi y'ingorane z'ubwenge aho umutangazamakuru wa radiyo atangira kwakira ubutumwa bworoheje buvuye ahantu hatazwi buteganya ibyaha bizaza mu mugi.",
+      "sw": "Filamu ya kisaikolojia ambapo msemaji wa redio anaanza kupokea maambukizi ya kusumbua kutoka chanzo kisichojulikana ambacho kinatabiri uhalifu wa siku zijazo kote mjini.",
+      "fr": "Un thriller psychologique où un animateur de radio commence à recevoir des transmissions inquiétantes d'une source inconnue qui prédisent de futurs crimes à travers la ville."
+    },
+    "category": "Thriller",
+    "thumbnail": "https://picsum.photos/seed/signal8/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2023,
+    "rating": "PG-13",
+    "duration": "1h 50m"
+  },
+  {
+    "id": "9",
+    "title": { "en": "The Roommates", "rw": "Inshuti z'Inzu", "sw": "Wanakumba", "fr": "Les Colocataires" },
+    "description": {
+      "en": "A hilarious comedy about four very different university students forced to share a tiny apartment in Kigali and the ridiculous situations they find themselves in.",
+      "rw": "Akamizero gashimishije cyane k'abanyeshuri bane ba kaminuza batandukanye cyane bajyanye kwicara mu cyumba gito i Kigali n'imiterere itangaje babonamo.",
+      "sw": "Vichekesho vya kuchekesha kuhusu wanafunzi wanne wa chuo kikuu tofauti sana wanaolazimishwa kushiriki nyumba ndogo huko Kigali na hali za kipuuzi wanazojikuta nazo.",
+      "fr": "Une comédie hilarante sur quatre étudiants universitaires très différents forcés de partager un petit appartement à Kigali et les situations ridicules dans lesquelles ils se retrouvent."
+    },
+    "category": "Comedy",
+    "thumbnail": "https://picsum.photos/seed/roommates9/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2024,
+    "rating": "PG-13",
+    "duration": "1h 35m"
+  },
+  {
+    "id": "10",
+    "title": { "en": "Savannah Storm", "rw": "Inkubi y'Ubutayu", "sw": "Dhoruba ya Savanna", "fr": "Tempête de Savane" },
+    "description": {
+      "en": "An action-packed adventure following a ranger protecting wildlife in the Serengeti as he battles poachers backed by a powerful international trafficking ring.",
+      "rw": "Urugendo ruzuzuyemo ibikorwa bishyushye rukurikirana umurinda w'ibikoko avuna ibinyabuzima i Serengeti agomba kurwanya abishyakira bafashwe n'umuzunguruko mwiza w'inzira z'ingendo z'isi yose.",
+      "sw": "Hadithi ya vitendo ya msimamizi anayehifadhi wanyamapori katika Serengeti akipigana na wawindaji wa haramu wanaoungwa mkono na mtandao wenye nguvu wa usafirishaji wa kimataifa.",
+      "fr": "Une aventure pleine d'action suivant un ranger protégeant la faune sauvage dans le Serengeti alors qu'il combat des braconniers soutenus par un puissant réseau international de trafic."
+    },
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/savannah10/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2023,
+    "rating": "PG-13",
+    "duration": "2h 2m"
+  },
+  {
+    "id": "11",
+    "title": { "en": "Inzozi", "rw": "Inzozi", "sw": "Ndoto", "fr": "Rêves" },
+    "description": {
+      "en": "A deeply moving Rwandan drama about a young woman who pursues her dream of becoming a fashion designer, navigating family expectations and societal pressures in modern Kigali.",
+      "rw": "Drama y'u Rwanda igaga cyane ku nyamukuru y'umukobwa muto akurikira inzozi ze zo kuba umunararibonye w'imyenda, akeneye guhangana n'icyiringiro cy'umuryango n'ibibazo by'abaturage i Kigali y'ubu.",
+      "sw": "Drama ya Rwanda inayogusa moyo kuhusu msichana mdogo anayefuatilia ndoto yake ya kuwa mbunifu wa mavazi, akipita katika matarajio ya familia na shinikizo za kijamii katika Kigali ya kisasa.",
+      "fr": "Un drame rwandais profondément émouvant sur une jeune femme qui poursuit son rêve de devenir styliste de mode, naviguant entre les attentes familiales et les pressions sociétales dans le Kigali moderne."
+    },
+    "category": "Rwandan Films",
+    "thumbnail": "https://picsum.photos/seed/inzozi11/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2022,
+    "rating": "PG",
+    "duration": "1h 55m"
+  },
+  {
+    "id": "12",
+    "title": { "en": "Paris Rendezvous", "rw": "Guhuza i Paris", "sw": "Mkutano Paris", "fr": "Rendez-vous à Paris" },
+    "description": {
+      "en": "A sweeping romance between an African diplomat and a French journalist whose love story unfolds across the romantic backdrop of Paris and Kigali.",
+      "rw": "Urukundo rurerure hagati y'inzobere y'Afurika n'inyandiko-makuru y'Ubufaransa inkuru yabo y'urukundo igaragazwa ku mpera y'urukundo i Paris na Kigali.",
+      "sw": "Romance pana kati ya mwanadiplomasia wa Afrika na mwandishi wa habari wa Ufaransa ambao hadithi yao ya upendo inafunuliwa dhidi ya mandhari ya kimapenzi ya Paris na Kigali.",
+      "fr": "Une romance balayante entre un diplomate africain et une journaliste française dont l'histoire d'amour se déroule sur la toile de fond romantique de Paris et de Kigali."
+    },
+    "category": "Romance",
+    "thumbnail": "https://picsum.photos/seed/paris12/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2024,
+    "rating": "PG-13",
+    "duration": "1h 48m"
+  },
+  {
+    "id": "13",
+    "title": { "en": "The Conspiracy", "rw": "Umugambi", "sw": "Njama", "fr": "La Conspiration" },
+    "description": {
+      "en": "A gripping political thriller about a journalist who uncovers a deadly conspiracy inside the highest levels of government, putting her life at risk.",
+      "rw": "Filimi ishimishije y'amashyaka ku nyandiko-makuru igundura umugambi w'urupfu hagati mu nzego z'ubuyobozi bwa leta, ibika ubuzima bwe mu kaga.",
+      "sw": "Filamu ya kisiasa ya kusisimua kuhusu mwandishi wa habari ambaye anagundua njama mbaya ndani ya viwango vya juu vya serikali, ikiweka maisha yake hatarini.",
+      "fr": "Un thriller politique palpitant sur une journaliste qui découvre un complot meurtrier au plus haut niveau du gouvernement, mettant sa vie en danger."
+    },
+    "category": "Thriller",
+    "thumbnail": "https://picsum.photos/seed/conspiracy13/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2023,
+    "rating": "R",
+    "duration": "2h 8m"
+  },
+  {
+    "id": "14",
+    "title": { "en": "Boss Baby Blues", "rw": "Akaborozi k'Umuyobozi", "sw": "Huzuni za Bosi", "fr": "Blues du Patron" },
+    "description": {
+      "en": "A laugh-out-loud comedy about a strict corporate boss who suddenly has to babysit his five energetic grandchildren for an entire week with disastrous results.",
+      "rw": "Akamizero gashimishije cyane ku mugaba w'ikigo ugomba kwita ku bazukuru be batanu bakonje mu cyumweru cyose n'ibikorwa bibi.",
+      "sw": "Vichekesho vya kicheko kikubwa kuhusu mkurugenzi mkali wa kampuni ambaye ghafla anapaswa kuwatunza wajukuu wake watano wenye nguvu kwa wiki nzima na matokeo mabaya.",
+      "fr": "Une comédie à mourir de rire sur un patron d'entreprise strict qui doit soudainement garder ses cinq petits-enfants énergiques pendant toute une semaine avec des résultats désastreux."
+    },
+    "category": "Comedy",
+    "thumbnail": "https://picsum.photos/seed/boss14/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2024,
+    "rating": "PG",
+    "duration": "1h 30m"
+  },
+  {
+    "id": "15",
+    "title": { "en": "Volcano Run", "rw": "Guhunga Volkano", "sw": "Kukimbia Volkeno", "fr": "Course du Volcan" },
+    "description": {
+      "en": "A high-octane action adventure set against the dramatic backdrop of the Virunga volcanoes, where a rescue team races against time to save trapped explorers.",
+      "rw": "Urugendo rw'ibikorwa bishyushye bigabanyijemo ku mpera y'inkombe z'ubutayu bw'Ibirunga, aho itsinda ry'abakiza bihuta mu gihe kugira ngo bakize abashakashatsi bafunzwe.",
+      "sw": "Hadithi ya vitendo ya nguvu iliyowekwa dhidi ya mandhari ya kushangaza ya volkano za Virunga, ambapo timu ya uokoaji inakimbia dhidi ya wakati kuokoa watafiti waliozingirwa.",
+      "fr": "Une aventure d'action à haute intensité se déroulant contre la toile de fond dramatique des volcans du Virunga, où une équipe de secours court contre la montre pour sauver des explorateurs coincés."
+    },
+    "category": "Action",
+    "thumbnail": "https://picsum.photos/seed/volcano15/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2024,
+    "rating": "PG-13",
+    "duration": "1h 56m"
+  },
+  {
+    "id": "16",
+    "title": { "en": "Lake Victoria Secret", "rw": "Ibanga rya Nyanza Victoria", "sw": "Siri ya Ziwa Victoria", "fr": "Secret du Lac Victoria" },
+    "description": {
+      "en": "A romantic mystery where two marine biologists fall in love while investigating a mysterious phenomenon beneath the surface of Lake Victoria.",
+      "rw": "Inkuru y'urukundo n'ubushakashatsi aho inzobere z'ibinyabuzima byo mu mazi zibana n'urukundo mu gihe zigenzura ibyabaye biteye ubwoba munsi y'Inyanja Victoria.",
+      "sw": "Fumbo la kimapenzi ambapo wabiolojia wawili wa baharini wanaanguka katika upendo wakati wakichunguza jambo la ajabu chini ya uso wa Ziwa Victoria.",
+      "fr": "Un mystère romantique où deux biologistes marins tombent amoureux tout en enquêtant sur un phénomène mystérieux sous la surface du lac Victoria."
+    },
+    "category": "Romance",
+    "thumbnail": "https://picsum.photos/seed/victoria16/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2023,
+    "rating": "PG",
+    "duration": "1h 44m"
+  },
+  {
+    "id": "17",
+    "title": { "en": "Inkotanyi", "rw": "Inkotanyi", "sw": "Inkotanyi", "fr": "Inkotanyi" },
+    "description": {
+      "en": "An epic Rwandan historical film depicting the brave journey of the Inkotanyi fighters who returned to liberate Rwanda, told through the eyes of a young soldier.",
+      "rw": "Filimi nkuru y'amateka y'u Rwanda igaragaza urugendo rw'intwari rw'abarwanyi b'Inkotanyi bagarutse gusubiza u Rwanda, iganwa hakoreshejwe amaso y'ingabo nto.",
+      "sw": "Filamu ya kihistoria ya Rwanda ya kishujaa inayoonyesha safari ya ujasiri ya wapiganaji wa Inkotanyi waliorudi kukomboa Rwanda, inayosimuliwa kupitia macho ya askari mdogo.",
+      "fr": "Un film historique rwandais épique dépeignant le courageux voyage des combattants Inkotanyi qui sont revenus libérer le Rwanda, raconté à travers les yeux d'un jeune soldat."
+    },
+    "category": "Rwandan Films",
+    "thumbnail": "https://picsum.photos/seed/inkotanyi17/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2022,
+    "rating": "R",
+    "duration": "2h 25m"
+  },
+  {
+    "id": "18",
+    "title": { "en": "Midnight Caller", "rw": "Uhamagara wa Gicuku", "sw": "Mpigaji Simu wa Usiku", "fr": "L'Appelant de Minuit" },
+    "description": {
+      "en": "A chilling thriller about a crisis hotline operator who becomes entangled in a deadly game when a mysterious caller begins confessing to crimes about to happen.",
+      "rw": "Filimi itera ubwoba y'umukoze kuri terefone y'ingorane ugwa mu mukino w'urupfu igihe umuhamagara w'ingorane atangira guhanura ibyaha bizashobora gukurikiraho.",
+      "sw": "Filamu ya kutisha kuhusu opereta wa simu ya dharura ambaye anajipata katika mchezo wa hatari wakati mpigaji simu wa ajabu anaanza kuungama uhalifu unaokaribia kutokea.",
+      "fr": "Un thriller glaçant sur un opérateur de ligne d'assistance en crise qui se retrouve piégé dans un jeu mortel lorsqu'un mystérieux appelant commence à avouer des crimes sur le point de se produire."
+    },
+    "category": "Thriller",
+    "thumbnail": "https://picsum.photos/seed/midnight18/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2024,
+    "rating": "R",
+    "duration": "1h 52m"
+  },
+  {
+    "id": "19",
+    "title": { "en": "Market Day Madness", "rw": "Isazi ry'Isoko", "sw": "Wazimu wa Siku ya Soko", "fr": "Folie du Jour de Marché" },
+    "description": {
+      "en": "A delightfully chaotic comedy following a day in the life of various vendors, customers, and characters at a bustling Kigali market where everything goes hilariously wrong.",
+      "rw": "Akamizero gashimishije k'akaruruka kigabanyijemo mu munsi w'ubuzima bw'abatazirwa, abakiriya, n'imyitwarire ku isoko rikora ryane rya Kigali aho byose bikoreka nabi cyane.",
+      "sw": "Vichekesho vya kufurahisha sana vinavyofuatilia siku maishani mwa wachuuzi mbalimbali, wateja, na wahusika katika soko lenye msongamano la Kigali ambapo kila kitu kinakwenda vibaya kwa ucheshi.",
+      "fr": "Une comédie délicieusement chaotique suivant une journée dans la vie de divers vendeurs, clients et personnages dans un marché animé de Kigali où tout tourne hilarement mal."
+    },
+    "category": "Comedy",
+    "thumbnail": "https://picsum.photos/seed/market19/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2023,
+    "rating": "PG",
+    "duration": "1h 28m"
+  },
+  {
+    "id": "20",
+    "title": { "en": "Seasons of Our Hearts", "rw": "Ibihe by'Imitima Yacu", "sw": "Misimu ya Mioyo Yetu", "fr": "Saisons de Nos Cœurs" },
+    "description": {
+      "en": "A deeply romantic story following a couple through ten years of love, loss, and rediscovery across the beautiful landscapes of Rwanda and beyond.",
+      "rw": "Inkuru y'urukundo rugaga ikurikirana inshuti z'urukundo mu myaka icumi y'urukundo, gutatanuka, no kongera kugundura ku mpera y'ibibaho bishimishije by'u Rwanda n'ahandi.",
+      "sw": "Hadithi ya kimapenzi sana inayomfuatilia wenzi kupitia miaka kumi ya upendo, kupoteza, na kugundua tena katika mandhari nzuri za Rwanda na zaidi.",
+      "fr": "Une histoire profondément romantique suivant un couple à travers dix ans d'amour, de perte et de redécouverte à travers les beaux paysages du Rwanda et au-delà."
+    },
+    "category": "Romance",
+    "thumbnail": "https://picsum.photos/seed/seasons20/400/225",
+    "videoUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "downloadUrl": "https://www.w3schools.com/html/mov_bbb.mp4",
+    "year": 2022,
+    "rating": "PG",
+    "duration": "2h 0m"
+  }
+]
